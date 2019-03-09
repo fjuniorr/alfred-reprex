@@ -2,5 +2,3 @@
 categories:
     - =todo
 ---
-
-word
